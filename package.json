@@ -1,0 +1,25 @@
+{
+  "name": "express-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenteng6895/express-todos.git"
+  },
+  "author": "Bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenteng6895/express-todos/issues"
+  },
+  "homepage": "https://github.com/wenteng6895/express-todos#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3"
+  }
+}
